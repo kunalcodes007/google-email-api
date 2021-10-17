@@ -10,6 +10,8 @@ Step 2. Install Python Library
 
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
+#IMPORTANT: DO DOWNLOAD AND SAVE .JSON FILE FROM GOOGLE-CLOUD-PLATFORM
+
 References
 Gmail Scopes (https://developers.google.com/gmail/api/auth/scopes)
 Email Mime (https://docs.python.org/3/library/email.mime.html)
